@@ -5,3 +5,5 @@ Dockers==> https://www.edureka.co/blog/what-is-docker-container
 
 
 Kubernetes==> https://kubernetes.io/docs/tutorials/kubernetes-basics/
+
+http://www.mysqltutorial.org/mysql-functions.aspx
